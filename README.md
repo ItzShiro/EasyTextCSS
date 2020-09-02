@@ -26,8 +26,8 @@
   in easytext you can only use 3 simple animations
   
   3.1. how to use animations
-  to use animations on links <a href="">
-  use a li: <li class=""></li>
+  to use animations on links <a>
+  use a li: <li></li>
   and add things you want: 
   dark line: li-link-bg-dark
   light line: li-link-bg-light
